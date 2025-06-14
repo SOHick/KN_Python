@@ -15,7 +15,7 @@
   - **macOS**: OpenMPI
 - Библиотеки Python:
   ```bash
-  pip install mpi4py numpy 
+  pip install -r .\requirements.txt 
   ```
 ## Установка
 ### Для Windows: 
